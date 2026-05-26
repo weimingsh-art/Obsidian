@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "87a806075c7c20a3",
+        "id": "ae9c3473713c4ee8",
         "type": "tabs",
         "children": [
           {
-            "id": "1360f2e5194c3612",
+            "id": "e6f2aaee512a1e73",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "JJMT数据收集管理项目方案大纲.md",
-                "mode": "preview",
-                "source": false
+                "aFile": "JJMT GPT image2生图风格规范.md",
+                "bFile": "JJMT GPT image2生图风格规范.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "JJMT数据收集管理项目方案大纲"
+              "icon": "diff",
+              "title": "Diff: JJMT GPT image2生图风格规范  (Working Tree)"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"aliases\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,8 +164,19 @@
               "icon": "lucide-list",
               "title": "JJMT数据收集管理项目方案大纲 的大纲"
             }
+          },
+          {
+            "id": "5f1169b2c93951d0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -183,10 +194,11 @@
       "bases:新建数据库": false
     }
   },
-  "active": "a898a478687c9689",
+  "active": "e6f2aaee512a1e73",
   "lastOpenFiles": [
     "JJMT GPT image2生图风格规范.md",
     "JJMT数据收集管理项目方案大纲.md",
+    "未命名.canvas",
     "未命名.base"
   ]
 }

@@ -1,4 +1,4 @@
-# JJMT PPT 及 GPT image2 生图风格规范
+# JJMT PPT 及 GPT image2 生图风格规范 
 
 ## 1. 适用范围 
 
