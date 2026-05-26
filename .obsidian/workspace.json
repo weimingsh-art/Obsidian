@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ae9c3473713c4ee8",
+        "id": "f50ba420a0141935",
         "type": "tabs",
         "children": [
           {
-            "id": "e6f2aaee512a1e73",
+            "id": "82c277dc1d53c7f7",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "JJMT GPT image2生图风格规范.md",
-                "bFile": "JJMT GPT image2生图风格规范.md",
+                "aFile": "JJMT数据收集管理项目方案大纲.md",
+                "bFile": "JJMT数据收集管理项目方案大纲.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: JJMT GPT image2生图风格规范  (Working Tree)"
+              "title": "Diff: JJMT数据收集管理项目方案大纲  (Working Tree)"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a01d2eced818dffa",
@@ -194,10 +195,10 @@
       "bases:新建数据库": false
     }
   },
-  "active": "e6f2aaee512a1e73",
+  "active": "82c277dc1d53c7f7",
   "lastOpenFiles": [
-    "JJMT GPT image2生图风格规范.md",
     "JJMT数据收集管理项目方案大纲.md",
+    "JJMT GPT image2生图风格规范.md",
     "未命名.canvas",
     "未命名.base"
   ]
